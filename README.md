@@ -32,7 +32,7 @@ Screenshots of the app:
 ![](.README_images/609f3741.png)
 
 ![](.README_images/0700e1f4.png)
-#resize image
+
 ![](.README_images/8dbfff3b.png)
 
 ![](.README_images/8dbfff3b.png)
